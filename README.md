@@ -3,8 +3,8 @@
 ### About Me
 ✨ I am self-motivated,focused and versatile statistician and programmer. I am fond of web development and software development in general.
 
-- 🔭 I’m currently working on MERN Stack apps.
-- 🌱 I’m currently improving my MERN Stack skills.
+- 💻 I’m currently working on MERN Stack apps.
+- ⏫ I’m currently improving my MERN Stack skills.
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love coding.
 
