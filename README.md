@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi there 👋 My name is Emrullah Yaprak
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaprak)](https://github.com/eyaprak/github-readme-stats)
+### About Me
+✨ I am self-motivated,focused and versatile statistician and programmer. I am fond of web development and software development in general.
 
-<!--
-**eyaprak/eyaprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on MERN Stack apps.
+- 🌱 I’m currently improving my MERN Stack skills.
+- 👯 I’m looking to collaborate on React.js Projects
+- ⚡ Fun fact: I love coding.
 
-Here are some ideas to get you started:
+| GitHub Stats  | Top Languages |
+| ------------- | ------------- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaprak&show_icons=true&theme=radical)](https://github.com/eyaprak/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyaprak&layout=compact&show_icons=true&theme=radical)](https://github.com/eyaprak/github-readme-stats)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Writing Speed Test App  | SpaceX App |
+| ------------- | ------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyaprak&repo=writing-speed&theme=radical)](https://github.com/eyaprak/writing-speed)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyaprak&repo=graphql-spacex&theme=radical)](https://github.com/eyaprak/graphql-spacex)|
+
