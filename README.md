@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Emrullah Yaprak
 
 ### About Me
-✨ I am self-motivated,focused and versatile statistician and programmer. I am fond of web development and software development in general.
+✨ I am self-motivated,focused and programmer. I am fond of web development and software development in general.
 
 - 💻 I’m currently working on MERN Stack apps.
 - ⏫ I’m currently improving my MERN Stack skills.
