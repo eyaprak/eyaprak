@@ -5,6 +5,7 @@
 
 - 💻 I’m currently working on MERN Stack apps.
 - ⏫ I’m currently improving my MERN Stack skills.
+- 💻 I’m also learning React Native.
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love coding.
 
