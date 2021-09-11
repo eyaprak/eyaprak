@@ -26,6 +26,7 @@
 ![mongodb](/icons/mongo.png)
 ![tailwindcss](/icons/tailwindcss.png)
 ![vscode](/icons/vscode.png)
+![phpstorm](/icons/phpstorm.png)
 [![git](/icons/git.png)](https://git-scm.com)
 [![github](/icons/github.png)](https://github.com)
 [![gitlab](/icons/gitlab.png)](https://gitlab.com/)
@@ -37,7 +38,6 @@
 ![oracledb](/icons/oracledb.png)
 ![wordpress](/icons/wordpress.png)
 ![php](/icons/php.png)
-![phpstorm](/icons/phpstorm.png)
 
 
 | GitHub Stats  | Top Languages |
