@@ -9,24 +9,29 @@
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love coding.
 
-✨ I HAVE EXPERIENCE ON ✨
+✨ MY SOCIAL MEDIA ACCOUNTS ✨
+
+![linkedin](/icons/linkedin.png)
+![instagram](/icons/instagram.png)
+
+✨ I'M CURRENTLY WORKING WITH ✨
 
 ![react](/icons/react.png)
-![dartlang](/icons/dartlang.png)
-![flutter](/icons/flutter.png)
+![javascript](/icons/javascript.png)
+![typescript](/icons/typescript.png)
+![mysql](/icons/mysql.png)
+![vscode](/icons/vscode.png)
 ![git](/icons/git.png)
 ![github](/icons/github.png)
 ![gitlab](/icons/gitlab.png)
-![instagram](/icons/instagram.png)
-![javascript](/icons/javascript.png)
-![linkedin](/icons/linkedin.png)
-![mysql](/icons/mysql.png)
+
+✨ I PREVIOUSLY WORKET WITH ✨
+
+![dartlang](/icons/dartlang.png)
+![flutter](/icons/flutter.png)
+![wordpress](/icons/wordpress.png)
 ![php](/icons/php.png)
 ![phpstorm](/icons/phpstorm.png)
-![typescript](/icons/typescript.png)
-![vscode](/icons/vscode.png)
-![wordpress](/icons/wordpress.png)
-
 
 
 | GitHub Stats  | Top Languages |
