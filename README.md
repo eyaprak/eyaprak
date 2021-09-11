@@ -12,6 +12,22 @@
 ✨ I HAVE EXPEREINCE ON ✨
 
 ![react](/icons/react.png)
+![dartlang](/icons/dartlang.png)
+![flutter](/icons/flutter.png)
+![git](/icons/git.png)
+![github](/icons/github.png)
+![gitlab](/icons/gitlab.png)
+![instagram](/icons/instagram.png)
+![javascript](/icons/javascript.png)
+![linkedin](/icons/linkedin.png)
+![mysql](/icons/mysql.png)
+![php](/icons/php.png)
+![phpstorm](/icons/phpstorm.png)
+![typescript](/icons/typescript.png)
+![vscode](/icons/vscode.png)
+![wordpress](/icons/wordpress.png)
+
+
 
 | GitHub Stats  | Top Languages |
 | ------------- | ------------- |
