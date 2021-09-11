@@ -13,7 +13,6 @@
 
 [![linkedin](/icons/linkedin.png)](https://www.linkedin.com/in/emrullah-yaprak/)
 [![instagram](/icons/instagram.png)](https://www.instagram.com/yprkemrullah/)
-[![git](/icons/git.png)](https://www.google.com.tr)
 [![github](/icons/github.png)](https://github.com/eyaprak)
 [![gitlab](/icons/gitlab.png)](https://gitlab.com/eyaprak)
 
@@ -27,6 +26,9 @@
 ![mongodb](/icons/mongo.png)
 ![tailwindcss](/icons/tailwindcss.png)
 ![vscode](/icons/vscode.png)
+[![git](/icons/git.png)](https://git-scm.com)
+[![github](/icons/github.png)](https://github.com)
+[![gitlab](/icons/gitlab.png)](https://gitlab.com/)
 
 ✨ I PREVIOUSLY WORKED WITH ✨
 
