@@ -28,7 +28,7 @@
 ![github](/icons/github.png)
 ![gitlab](/icons/gitlab.png)
 
-✨ I PREVIOUSLY WORKET WITH ✨
+✨ I PREVIOUSLY WORKED WITH ✨
 
 ![dartlang](/icons/dartlang.png)
 ![flutter](/icons/flutter.png)
