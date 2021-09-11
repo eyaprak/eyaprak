@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love coding.
 
-✨ I HAVE EXPREINCE ON ✨
+✨ I HAVE EXPEREINCE ON ✨
+
 ![react](/icons/react.png)
 
 | GitHub Stats  | Top Languages |
