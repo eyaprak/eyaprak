@@ -13,6 +13,9 @@
 
 ![linkedin](/icons/linkedin.png)
 ![instagram](/icons/instagram.png)
+[![git](/icons/git.png)]('https://www.google.com.tr')
+![github](/icons/github.png)
+![gitlab](/icons/gitlab.png)
 
 ✨ I'M CURRENTLY WORKING WITH ✨
 
@@ -24,9 +27,6 @@
 ![mongodb](/icons/mongo.png)
 ![tailwindcss](/icons/tailwindcss.png)
 ![vscode](/icons/vscode.png)
-![git](/icons/git.png)
-![github](/icons/github.png)
-![gitlab](/icons/gitlab.png)
 
 ✨ I PREVIOUSLY WORKED WITH ✨
 
