@@ -18,6 +18,7 @@
 
 ![react](/icons/react.png)
 ![redux](/icons/redux.png)
+![nodejs](/icons/nodejs.png)
 ![javascript](/icons/javascript.png)
 ![typescript](/icons/typescript.png)
 ![mongodb](/icons/mongo.png)
