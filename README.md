@@ -32,6 +32,7 @@
 
 ![dartlang](/icons/dartlang.png)
 ![flutter](/icons/flutter.png)
+![oracle](/icons/oracle.png)
 ![wordpress](/icons/wordpress.png)
 ![php](/icons/php.png)
 ![phpstorm](/icons/phpstorm.png)
