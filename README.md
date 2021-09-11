@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love coding.
 
-✨ I HAVE EXPEREINCE ON ✨
+✨ I HAVE EXPERIENCE ON ✨
 
 ![react](/icons/react.png)
 ![dartlang](/icons/dartlang.png)
