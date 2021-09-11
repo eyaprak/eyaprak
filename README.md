@@ -11,11 +11,11 @@
 
 ✨ MY SOCIAL MEDIA ACCOUNTS ✨
 
-![linkedin](/icons/linkedin.png)
-![instagram](/icons/instagram.png)
-[![git](/icons/git.png)]('https://www.google.com.tr')
-![github](/icons/github.png)
-![gitlab](/icons/gitlab.png)
+[![linkedin](/icons/linkedin.png)](https://www.linkedin.com/in/emrullah-yaprak/)
+[![instagram](/icons/instagram.png)](https://www.instagram.com/yprkemrullah/)
+[![git](/icons/git.png)](https://www.google.com.tr)
+[![github](/icons/github.png)](https://github.com/eyaprak)
+[![gitlab](/icons/gitlab.png)](https://gitlab.com/eyaprak)
 
 ✨ I'M CURRENTLY WORKING WITH ✨
 
