@@ -9,6 +9,9 @@
 - 👯 I’m looking to collaborate on React.js Projects
 - ⚡ Fun fact: I love coding.
 
+✨ I HAVE EXPREINCE ON ✨
+![react](/icons/react.png)
+
 | GitHub Stats  | Top Languages |
 | ------------- | ------------- |
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyaprak&show_icons=true&theme=radical)](https://github.com/eyaprak/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyaprak&layout=compact&show_icons=true&theme=radical)](https://github.com/eyaprak/github-readme-stats)|
