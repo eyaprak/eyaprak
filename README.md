@@ -20,6 +20,7 @@
 ![javascript](/icons/javascript.png)
 ![typescript](/icons/typescript.png)
 ![mongodb](/icons/mongo.png)
+![tailwindcss](/icons/tailwindcss.png)
 ![vscode](/icons/vscode.png)
 ![git](/icons/git.png)
 ![github](/icons/github.png)
