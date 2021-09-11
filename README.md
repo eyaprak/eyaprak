@@ -17,6 +17,7 @@
 ✨ I'M CURRENTLY WORKING WITH ✨
 
 ![react](/icons/react.png)
+![redux](/icons/redux.png)
 ![javascript](/icons/javascript.png)
 ![typescript](/icons/typescript.png)
 ![mongodb](/icons/mongo.png)
