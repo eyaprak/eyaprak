@@ -25,7 +25,6 @@
 ![git](/icons/git.png)
 ![github](/icons/github.png)
 ![gitlab](/icons/gitlab.png)
-![gitlab](/icons/test.png)
 
 ✨ I PREVIOUSLY WORKET WITH ✨
 
