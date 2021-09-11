@@ -19,7 +19,7 @@
 ![react](/icons/react.png)
 ![javascript](/icons/javascript.png)
 ![typescript](/icons/typescript.png)
-![mongodb](/icons/mongodb.png)
+![mongodb](/icons/mongo.png)
 ![vscode](/icons/vscode.png)
 ![git](/icons/git.png)
 ![github](/icons/github.png)
