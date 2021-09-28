@@ -20,6 +20,7 @@
 
 ![react](/icons/react.png)
 ![redux](/icons/redux.png)
+![nextjs](/icons/nextjs.png)
 ![nodejs](/icons/nodejs.png)
 ![javascript](/icons/javascript.png)
 ![typescript](/icons/typescript.png)
