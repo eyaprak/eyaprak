@@ -3,12 +3,6 @@
 ### About Me
 ✨ I am self-motivated,focused and programmer. I am fond of web development and software development in general.
 
-- 💻 I’m currently working on MERN Stack apps.
-- ⏫ I’m currently improving my MERN Stack skills.
-- 💻 I’m also learning React Native.
-- 👯 I’m looking to collaborate on React.js Projects
-- ⚡ Fun fact: I love coding.
-
 ✨ MY SOCIAL MEDIA ACCOUNTS ✨
 
 [![linkedin](/icons/linkedin.png)](https://www.linkedin.com/in/emrullah-yaprak/)
