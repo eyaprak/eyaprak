@@ -4,5 +4,6 @@
 
 | Fatura App Youtube  | Axe AI Resim Üretici |
 | ------------- | ------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyaprak&repo=fatura-app-youtube&theme=radical)](https://github.com/eyaprak/fatura-app-youtube)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyaprak&repo=axe-resim-uretici&theme=radical)](https://github.com/eyaprak/axe-resim-uretici)| 
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyaprak&repo=fatura-app-youtube&theme=radical)](https://github.com/eyaprak/fatura-app-youtube)  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyaprak&repo=axe-resim-uretici&theme=radical&show_owner=true)](https://github.com/eyaprak/axe-resim-uretici)
+
 
